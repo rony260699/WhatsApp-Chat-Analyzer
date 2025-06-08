@@ -1,6 +1,6 @@
 # WhatsApp-Chat-Analyzer
 📊 WhatsApp Chat Analyzer using Streamlit & Python! 🚀
-Excited to share my WhatsApp Chat Analyzer built using Streamlit, Python, and various data visualization tools! 🔍💬
+Excited to share my WhatsApp Chat Analyzer built using Streamlit, Python, and various data visualization tools like Matplotlib! 🔍💬
 🔹 Features: ✅ Upload WhatsApp chat files and analyze messages
  ✅ Detailed statistics (messages, words, media, links)
  ✅ Monthly, daily, and activity timeline visualizations
